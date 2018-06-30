@@ -1,0 +1,148 @@
+<!DOCTYPE html>
+<meta charset="UTF-8">
+
+<head>
+<title> Homework 7 </title>
+<style>
+h1{
+	text-align:center;
+}
+
+div.one {
+	font-Family:Calibri;
+	border-style:ridge;
+	border-width:15px;
+	border-color:lightBlue;
+	text-align:center;
+	background-color:#99FFFF;
+}
+body {
+	background-image:url('http://www.wallpaper77.com/upload/DesktopWallpapers/cache/Pattern-White-Sand-background-patterns-pattern-wallpapers-1440x900.jpg')
+}
+html {
+	border-style:solid;
+	border-color:grey;
+	border-width:20px;
+}
+Table{
+	border-style: ridge;
+	border-color:lightgray
+	Text-align:center;
+}
+td,tr,th {
+	text-align:center;
+	padding:10px;
+}
+#baseball1 {color:Brown;}
+#polo1 {color:Purple;}
+#hockey1 {color:Blue;}
+#croquet1 {color:Black;}
+#lacrosse1 {color:Orange;}
+#tennis1{Color:Green;}
+#golf1 {Color:grey;}
+p:first-child
+{
+	color:darkgreen;
+}
+p:nth-child(2)
+{
+	color:Green;
+	text-indent:50px;
+}
+[Title]{
+	Color:Darkblue;
+}
+p.why:first-line{
+	font-size:200%;
+}	
+p.why{
+	Border-style:ridge;
+	border-width:15px;
+	border-color:lightgreen;
+	padding:15px;
+	background-image:url('http://www.photos-public-domain.com/wp-content/uploads/2012/07/lime-green-diagonal-striped-plastic-texture.jpg');}
+}
+a:visited{color:purple;}
+a:hover{color:lightblue;}
+div>p{
+	font-size:110%;
+	line-height:200%;
+}
+
+
+
+</style>
+</head>
+
+
+
+<body>
+<br>
+
+<div> <h1 title="A Brief Overview of Sports"> A Brief Overview of Sports </h1>
+<p> <b> From Wikipedia: </b> <i> The history of sport probably extends as far back as the existence of people as purposive sportive and active beings. 
+				Sport has been a useful way for people to increase their mastery of nature and the environment. The history of sport 
+				can teach us a great deal about social changes and about the nature of sport itself. Sport seems to involve basic human
+				skills being developed and exercised for their own sake, in parallel with being exercised for their usefulness. It also
+				shows how society has changed its beliefs and therefore there are changes in the rules. Of course, as we go further 
+				back in history the dwindling evidence makes the theories of the origins and purposes of sport difficult to support.
+				Nonetheless, its importance in human history is undeniable. </i> </p> </div>
+<br>
+<div> <p class="why"> Why do humans enjoy playing sports? <br>
+	 It's weird if you think about it.
+	 A sport is a type of game that is interactive and involves coflict with other individuals. 
+	Games are basically voluntary attempts to overcome unnecessary obstacles. So why do we play sports?
+	 What is the difference between a sport and say, a game? or a puzzle? <a href="http://www.youtube.com/watch?v=e5jDspIC4hY" target="_blank">Click Here </a> to learn more  </p> </div>
+
+<br>
+
+<h1 title="Classifying Sports"> Classifying Sports </h1>
+<div class="one">
+<h1> Sports that use a stick and ball </h1>
+	<center> <table border="5px">
+		<tr>
+			<th> Sport </th>
+			<th> Stick </th>
+			<th> Ball </th>
+		</tr>
+		<tr>
+			<td id="baseball1"> Baseball </td>
+			<td> <img src="http://vector-magz.com/wp-content/uploads/2013/07/baseball-bat-clipart1.png" alt="Baseball-Bat" height="100" width"100"> </td>
+			<td> <img src="http://upload.wikimedia.org/wikipedia/en/1/1e/Baseball_(crop).jpg" alt="Baseball" height="100" width="100"></td>
+		</tr>
+		<tr class="polo">
+			<td id="polo1"> Polo </td>
+			<td> <img src="http://www.ajarimpex.com/admincp/sdata/itmimgs/itm_l_303.jpg" alt="Polo-Stick" height="100" width"100"> </td>
+			<td><img src="http://www.pampeano.co.uk/image/cache/data/plastic_polo_ball-500x500.jpg" alt="Polo-Ball" height="100" width"100">  </td>
+		</tr>
+		<tr>
+			<td id="hockey1"> Hockey </td>
+			<td> <img src="http://www3.images.coolspotters.com/photos/6930/sher-wood-hockey-stick-profile.jpg" alt="Hockey-Stick" height="100" width"100"> </td>
+			<td> <img src="http://conversation.salamzaban.com/repo/images/old/jb/db9a59a02130203dfc6a4ec5f8498a9f.jpg" alt="Hockey-Ball" height="100" width"100"> </td>
+		</tr>
+		<tr>
+			<td id="croquet1"> Croquet </td>
+			<td> <img src="http://thumbs1.ebaystatic.com/d/l225/m/mlUOy5IFVjaitmz7MRe3QAw.jpg" alt="Crochet-Stick" height="100" width"100"> </td>
+			<td> <img src="http://thumbs1.ebaystatic.com/d/l225/m/mUjtUU7dOk9ZOTC63doyHpg.jpg" alt="Crochet-Ball" height="100" width"100"> </td>
+		</tr>
+		<tr>
+			<td id="lacrosse1"> Lacrosse </td>
+			<td><img src="http://c4.afterschool.com/images/products/p/wjd/wjd-006_1z.jpg" alt="Lacrosse-Stick" height="100" width"100">  </td>
+			<td> <img src="http://www.laxzone.com/products/Warrior-White-Ball3.jpg" alt="Lacrosse-Ball" height="100" width"100"> </td>
+		</tr>
+		<tr>
+			<td id="tennis1"> Tennis </td>
+			<td><img src="http://images2.wikia.nocookie.net/__cb20130622185549/fantendo/images/2/2f/Tennis_racket.jpg" alt="Tennis-Stick" height="100" width"100"> </td>
+			<td><img src="http://images.wikia.com/nintendo/en/images/3/3e/MTO_Tennis_Ball.png" alt="Tennis-Ball" height="100" width"100"> </td>
+		</tr>
+		<tr>
+			<td id="golf1"> Golf </td>
+			<td> <img src="http://www.golfocd.com/wp-content/uploads/2012/02/wholesale-golf-clubs.jpg" alt="Golf-Stick" height="100" width"100"></td>
+			<td><img src="http://edgeofthecarolinas.com/wp-content/uploads/2013/04/white-golf-ball.jpg" alt="Golf-Ball" height="100" width"100"> </td>
+		</tr>
+	</table> </center>
+</div>
+
+
+</body>
+</html>
