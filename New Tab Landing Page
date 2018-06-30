@@ -1,0 +1,114 @@
+<!DOCTYPE HTML>
+<meta charset="UTF-8">
+<head>
+<style>
+
+
+h1 {
+	color:White;
+	font-family:Calibri;
+	text-align:center;
+}
+div,p,h2,h3 {
+	text-align:center;
+	font-family:calibri;
+}
+#p1{
+	color:lightblue;
+	Font:Calibri;
+	text-align:center;
+	font-family:Calibri;
+}
+body{
+	background-image:url('http://www.userlogos.org/files/backgrounds/Mafia_Penguin/Map1280x800.jpg');
+}
+table,tr,td{
+	border: 5px solid black;
+}
+
+a:hover{
+	color:lightblue;font-size:20px;
+}
+</style>
+
+<title>
+	New Page
+</title>
+
+
+</head>
+
+<body>
+
+<div id="header" style="background-color:#000000";>
+<h1> <a id="T"> New Page </a> </h1> </div>
+
+
+<div id="menu" style="background-color:#909090;height:675px;width:200px; float:left;">
+ <h3> <b> Other Sites </b> </h3> <br>
+<a href="file:///C:/Users/Sharon/Documents/CS221/Homework-1.html"> Homework-1 </a> <br>
+<a href="file:///C:/Users/Sharon/Documents/CS221/Random-Math-Stuff-HW2.html"> Homework-2 </a> <br>
+<a href="file:///C:/Users/Sharon/Documents/CS221/About-me-HW4.html"> About Me </a> <br>
+<br>
+<br>
+<a href="http://www.w3schools.com"> W3 Schools Homepage</a> <br>
+<br>
+<a href="http://validator.w3.org/"> W3 Website Validator </a>
+<a href="http://www.userlogos.org/files/logos/Rog/w3schools.com_03.png"> <img src="http://www.userlogos.org/files/logos/Rog/w3schools.com_03.png" height="75" width="100" alt="W3-Schools-Logo"> </a>
+</div>
+
+
+<h3>  Need to get work done? Here are some quick links  </h3>
+
+<center> <table>
+	<tr>
+		<td> <a href="http://www.dcds.edu"> <img src="http://www.oyomi.org/oyo/wp-content/uploads/logoDCDS.jpg" height="100" width="100" alt="DCDS-Logo"> </a> </td> 
+		<td> <a href="http://email.dcds.edu"> <img src="http://carleton.ca/ccs/wp-content/uploads/outlook_2007_logo.jpg" height="100" width="100" alt="Microsoft-Outlook-Logo"> </a></td>
+		<td> <a href="http://www.wikipedia.com">  <img src="http://upload.wikimedia.org/wikipedia/commons/d/de/Wikipedia_Logo_1.0.png" height="100" width="100" alt="Wikipedia-Logo"> </a></td>	
+		<td> <a href="http://www.google.com"> <img src="http://www.ninahale.com/wp-content/uploads/2013/08/Google.jpg" height="100" width="100" alt="Google-Logo"> </a></td>
+	</tr>
+</table> </center>
+
+<br>
+<br>
+<br>
+
+<h3> Bored? Here is a bunch of sites that might entertain you.</h3>
+<center> <table>
+	<tr>
+		<td> <a href="http://www.youtube.com"> <img src="http://s.ytimg.com/yts/img/youtube_logo_stacked-vfl225ZTx.png" height="100" width="100" alt="YouTube-Logo"> </a> </td>
+		<td> <a href="http://www.facebook.com"> <img src="http://a5.mzstatic.com/us/r30/Purple/v4/46/ec/ba/46ecbac5-9277-68f4-a648-8a0cb0305bbd/mzl.olkdgdws.png" height="100" width="100" alt="facebook Logo"></a> </td>
+		<td> <a href="http://www.stumbleupon.com"> <img src="http://logonoid.com/images/stumbleupon-logo.png"height="100" width="100" alt="StumbleUpon Logo"> </a> </td>
+		<td> <a href="http://www.buzzfeed.com"> <img src="http://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/contributors_nets/public/2012/12/11/buzzfeed-logo.jpg" height="100" width="100" alt="BuzzFeed Logo"></a></td>
+	</tr>
+</table> </center>
+
+<br>
+<br>
+<br>
+
+<h3> Custom Links </h3>
+<center> <table>
+	<tr>
+		<td> <a href="http://www.investopedia.com"> <img src="http://www.wealthlift.com/blog/wp-content/uploads/2012/02/investopedia-logo.png" height="100" width="100" alt="Investopedia-Logo"> </a> </td>
+		<td> <a href="http://www.act.org/qotd/"> <img src="http://www.cantonlocal.org/LinkImages/ACT%20Question%20of%20the%20Day-2.png" height="100" width="100" alt="ACT-Question-of-the-Day-Logo"> </a> </td>
+	</tr>
+</table> </center>
+
+<hr>
+<br>
+
+<p> <a href="http://www.bing.com" accesskey="1"> Press Alt+1 to open Bing </a>
+
+
+<div id="footer" style="background-color:#009090;text-align:center;>
+
+<p id="p1"> <a href="#T"> Back to Top </a> <br>
+
+ 2013 &copy; <em> Jonathan Calso </em> <br>
+ Email: <a href="mailto:jcalso@dcds.edu"> jcalso@dcds.edu </a></p>
+</div>
+
+</body>
+
+</html>
